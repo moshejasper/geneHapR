@@ -1,5 +1,10 @@
 # `geneHapR`:
 
+# Please go to new repo [https://gitee.com/zhangrenl/genehapr](https://gitee.com/zhangrenl/genehapr)
+
+# 请前往新仓库: [https://gitee.com/zhangrenl/genehapr](https://gitee.com/zhangrenl/genehapr)
+
+
 ## Installation
 
 Windows, Linux and mac users:
