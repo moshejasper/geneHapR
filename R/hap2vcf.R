@@ -145,7 +145,7 @@ vcf2hap_data <- function(vcf,
     gt <- vcfR::extract_gt_tidy(vcf, format_fields = "GT")
     hap <- tidyr::pivot_wider(
         data = gt,
-        id_cols = .data$Key,
+        id_cols = 1,
         names_from = .data$Indiv,
         values_from = .data$gt_GT_alleles
     )
