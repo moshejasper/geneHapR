@@ -24,7 +24,6 @@ Imports:
   ggpubr,
   genetics, 
   GenomicRanges,
-  lolliplot,
   maps,
   methods,
   IRanges,
